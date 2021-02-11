@@ -1,0 +1,7 @@
+Tips
+
+kubernetes
+CPU and Memory usage and utilization
+kubectl top pods --all-namespaces
+
+--------------------------------------------
